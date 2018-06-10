@@ -1,0 +1,22 @@
+{
+  "name": "react-native-redux-form",
+  "version": "0.1.0",
+  "description": "React Native Redux Form fields",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1oginov/react-native-redux-form.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "redux",
+    "form"
+  ],
+  "author": "Danila Loginov <danila@loginov.rocks> (https://loginov.rocks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1oginov/react-native-redux-form/issues"
+  },
+  "homepage": "https://github.com/1oginov/react-native-redux-form"
+}
