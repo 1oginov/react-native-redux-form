@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "react/jsx-filename-extension": "off",
+    "sort-keys": [
+      "error",
+      "asc",
+      {
+        "caseSensitive": false,
+        "natural": true
+      }
+    ]
+  }
+}

@@ -1,8 +1,12 @@
 {
   "name": "react-native-redux-form",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React Native Redux Form fields",
   "main": "src/index.js",
+  "scripts": {
+    "check": "npm run lint",
+    "lint": "eslint src"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loginov-rocks/react-native-redux-form.git"
@@ -20,8 +24,21 @@
   },
   "homepage": "https://github.com/loginov-rocks/react-native-redux-form",
   "peerDependencies": {
-    "react": ">= 15.0.0",
-    "react-native": ">= 40.0.0",
-    "recompose": ">= 0.30.0"
+    "react": ">=15.0.0",
+    "react-native": ">=40.0.0",
+    "recompose": ">=0.30.0",
+    "redux-form": ">=7.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.15.0",
+    "eslint-plugin-react-hooks": "^2.1.1",
+    "react": "^16.10.1",
+    "react-native": "^0.61.1",
+    "recompose": "^0.30.0",
+    "redux-form": "^8.2.6"
   }
 }

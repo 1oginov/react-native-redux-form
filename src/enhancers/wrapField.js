@@ -5,7 +5,7 @@ import { mapProps } from 'recompose';
  * @param {*} component
  * @return {*}
  */
-const wrapField = component => mapProps(({ name, ...inputProps }) => ({
+const wrapField = (component) => mapProps(({ name, ...inputProps }) => ({
   component,
   inputProps,
   name,
