@@ -1,12 +1,11 @@
 # react-native-redux-form
 
-[![NpmVersion](https://img.shields.io/npm/v/react-native-redux-form.svg)](https://www.npmjs.com/package/react-native-redux-form)
-[![peerDependencies Status](https://david-dm.org/loginov-rocks/react-native-redux-form/peer-status.svg)](https://david-dm.org/loginov-rocks/react-native-redux-form?type=peer)
-[![devDependencies Status](https://david-dm.org/loginov-rocks/react-native-redux-form/dev-status.svg)](https://david-dm.org/loginov-rocks/react-native-redux-form?type=dev)
+[![npm](https://img.shields.io/npm/v/react-native-redux-form)](https://www.npmjs.com/package/react-native-redux-form)
+[![CI](https://github.com/loginov-rocks/react-native-redux-form/workflows/CI/badge.svg)](https://github.com/loginov-rocks/react-native-redux-form/actions)
 
 [React Native](https://facebook.github.io/react-native/) [Redux Form](https://redux-form.com/) fields.
 
-## Quick start
+## Quick Start
 
 ### Install
 
